@@ -13,6 +13,8 @@
 		F8166568242A41AD00BFDDAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8166566242A41AD00BFDDAB /* Main.storyboard */; };
 		F816656A242A41AF00BFDDAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8166569242A41AF00BFDDAB /* Assets.xcassets */; };
 		F816656D242A41AF00BFDDAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F816656B242A41AF00BFDDAB /* LaunchScreen.storyboard */; };
+		F8166575242A440000BFDDAB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8166574242A440000BFDDAB /* DetailViewController.swift */; };
+		F8166577242A50AE00BFDDAB /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8166576242A50AE00BFDDAB /* Simpson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F8166569242A41AF00BFDDAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F816656C242A41AF00BFDDAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F816656E242A41AF00BFDDAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8166574242A440000BFDDAB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		F8166576242A50AE00BFDDAB /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				F8166560242A41AD00BFDDAB /* AppDelegate.swift */,
 				F8166562242A41AD00BFDDAB /* SceneDelegate.swift */,
 				F8166564242A41AD00BFDDAB /* ViewController.swift */,
+				F8166574242A440000BFDDAB /* DetailViewController.swift */,
+				F8166576242A50AE00BFDDAB /* Simpson.swift */,
 				F8166566242A41AD00BFDDAB /* Main.storyboard */,
 				F8166569242A41AF00BFDDAB /* Assets.xcassets */,
 				F816656B242A41AF00BFDDAB /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				F8166565242A41AD00BFDDAB /* ViewController.swift in Sources */,
 				F8166561242A41AD00BFDDAB /* AppDelegate.swift in Sources */,
 				F8166563242A41AD00BFDDAB /* SceneDelegate.swift in Sources */,
+				F8166575242A440000BFDDAB /* DetailViewController.swift in Sources */,
+				F8166577242A50AE00BFDDAB /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
